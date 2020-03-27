@@ -1,0 +1,11 @@
+setup.py
+Miprimerpaquete/__init__.py
+Miprimerpaquete/resta.py
+Miprimerpaquete/sumar.py
+Miprimerpaquete/Areas/__init__.py
+Miprimerpaquete/Areas/areaR.py
+Miprimerpaquete/Areas/areaT.py
+areas.egg-info/PKG-INFO
+areas.egg-info/SOURCES.txt
+areas.egg-info/dependency_links.txt
+areas.egg-info/top_level.txt
